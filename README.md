@@ -19,6 +19,9 @@ A simple and quick recipe for flashcard-like learning on Mac OS.
 7. Check _Apply window properties_
 8. Uncheck all options
 9. Save the Automator app
+10. Add an icon to the app
+11. Create an alias to the app and save to _~/Desktop_
+12. Add the icon to the alias
 
 ### Configure cron
 
@@ -32,6 +35,6 @@ A simple and quick recipe for flashcard-like learning on Mac OS.
 ## How to Use
 
 1. Drop screenshots of things you want to learn into _~/Flashcards_
-2. Drag URLs into _~/Flashcards_ for websites.
 3. Manage the items in _~/Flashcards_ as you see fit, e.g., delete them when you have learned them.
 4. When prompted spend as much time as you want, review items, then close the folder when done.
+5. To study on demand, click the alias on the desktop.
