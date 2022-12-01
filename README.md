@@ -34,3 +34,4 @@ A simple and quick recipe for flashcard-like learning on Mac OS.
 1. Drop screenshots of things you want to learn into _~/Flashcards_
 2. Drag URLs into _~/Flashcards_ for websites.
 3. Manage the items in _~/Flashcards_ as you see fit, e.g., delete them when you have learned them.
+4. When prompted spend as much time as you want, review items, then close the folder when done.
